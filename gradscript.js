@@ -17,7 +17,7 @@ function setGradient() {
 color1.addEventListener("input", setGradient);
 
 color2.addEventListener("input", setGradient);
-<--
+
 
 /*var css = document.querySelector("h3");
 var color1 = document.querySelector(".color1");
